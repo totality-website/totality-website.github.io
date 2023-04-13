@@ -1,7 +1,7 @@
 <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Quick Start</span></h4>
+    <h4 class="font-weight-bold spanborder"><span>快速入門</span></h4>
     <ol class="list-featured">
-        {% for post in site.tags.featured reversed %}
+        {% for post in site.posts reversed %} {% if post.featured == true %}
         <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
@@ -23,6 +23,6 @@
                 </span>
             </span>
         </li>
-        {% endfor %}
+        {% endif %} {% endfor %}
     </ol>
 </div>

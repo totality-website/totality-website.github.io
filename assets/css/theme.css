@@ -296,7 +296,6 @@ a.text-dark:hover {
 		right:0;
 	}
     .jumbotron-home h1 {
-        font-family: Georgia,Times,"Times New Roman",serif;
         font-size: 2.4rem;
         font-weight: 700;
         line-height: 1.1;
@@ -628,7 +627,6 @@ ol.list-featured li:before {
     font-weight: bold;
     font-size: 2rem;
     margin-right: 0.5rem;
-    font-family: Arial;
     line-height: 1;
     opacity: .1;
 }
@@ -651,7 +649,6 @@ footer {
 article {
 	font-size:20px;
 	line-height:1.86;
-    font-family:Lora;
 }
 .article-headline {
     font-size: 3.2rem;
