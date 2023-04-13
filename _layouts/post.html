@@ -43,7 +43,7 @@ layout: default
 		<div class="col-lg-2 pr-4 mb-4 col-md-12">
 			<div class="sticky-top sticky-top-offset text-center">
 				<div class="text-muted">
-					Share this
+					分享至
 				</div>
 				<div class="share d-inline-block">
 					<!-- AddToAny BEGIN -->
@@ -74,7 +74,17 @@ layout: default
 				{% endfor %}
 				</span>
 			</div>
- 
+ 			
+ 			<!-- Prev/Next -->
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+            {% if page.previous.url %}
+            <a class="prev d-block col-md-6" href="{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
+            {% endif %}
+            {% if page.next.url %}
+            <a class="next d-block col-md-6 text-lg-right" href="{{page.next.url}}">{{page.next.title}} &raquo; </a>
+            {% endif %}
+            <div class="clearfix"></div>
+            </div>
             
             <!-- Comments -->
             {% if page.comments != false %}
@@ -88,20 +98,3 @@ layout: default
 </div>
 
 
-<!-- Aletbar Prev/Next -->
-<div class="alertbar">
-    <div class="container">
-        <div class="row prevnextlinks small font-weight-bold">
-          {% if page.previous.url %}
-            <div class="col-md-6 rightborder pl-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}">{% if page.previous.image %} <img height="30px" class="mr-1" src="{{site.baseurl}}/{{page.previous.image}}"> {% endif %} {{page.previous.title}}</a>
-            </div>
-          {% endif %}
-          {% if page.next.url %}
-            <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{site.baseurl}}/{{page.next.image}}"> {% endif %}</a>
-            </div>
-          {% endif %}
-        </div>
-    </div>
-</div>
