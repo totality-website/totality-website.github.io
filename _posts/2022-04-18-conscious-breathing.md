@@ -4,11 +4,6 @@ title: "清醒的呼吸"
 categories: [共修]
 image: https://cdn.totality-of-life.com/www/2023_ConsciousBreathing.jpg
 description: "Abiding in the Heart: New World, New Normal, New Beginning"
-featured: true
-redirect_from:
-  - /0427/
-  - /2022/
-
 toc: true
 ---
 
