@@ -4,7 +4,7 @@ title: "定在心：新世界，新的正常，全新的開始"
 subtitle: "Abiding in the Heart: New World, New Normal, New Beginning"
 categories: [共修]
 image: https://cdn.totality-of-life.com/www/transfer/2022_2nd_announce.jpg
-description: "desctiption只會顯示在這"
+description: "description只會顯示在這"
 
 redirect_from:
   - /0427/

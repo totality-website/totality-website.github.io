@@ -4,7 +4,7 @@ title:  "沒有路的路"
 subtitle: "No Way Back: The Path of No Return"
 categories: [ 共修 ]
 image: https://cdn.totality-of-life.com/www/transfer/9_Banner.jpg
-description: "desctiption只會顯示在這"
+description: "description只會顯示在這"
 
 ---
 

@@ -4,7 +4,7 @@ title:  "簡介"
 subtitle: "書籍．音聲．淨化．生命場共振，楊定一博士全方位陪伴你我活出全部的生命"
 categories: [ 入門教學 ]
 tags: [featured]
-description: "desctiption只會顯示在這"
+description: "description只會顯示在這"
 ---
 
 

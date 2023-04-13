@@ -4,7 +4,7 @@ title: "清醒的呼吸"
 subtitle: "Conscious Breathing"
 categories: [共修]
 image: https://cdn.totality-of-life.com/www/2023_ConsciousBreathing.jpg
-description: "desctiption只會顯示在這"
+description: "description只會顯示在這"
 
 ---
 
