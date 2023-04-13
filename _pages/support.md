@@ -1,8 +1,6 @@
 ---
 layout: page
-title:  "取得幫助"
-permalink: /support
+title: "取得幫助"
 ---
-
 ## Email
 totalityhelp@gmail.com

@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "簡介"
+subtitle: "書籍．音聲．淨化．生命場共振，楊定一博士全方位陪伴你我活出全部的生命"
 categories: [ 入門教學 ]
 tags: [featured]
 image: assets/images/11.jpg
-description: "介紹"
-featured: true
-beforetoc: "書籍．音聲．淨化．生命場共振，楊定一博士全方位陪伴你我活出全部的生命"
-toc: true
+description: "desctiption只會顯示在這"
 ---
 
 

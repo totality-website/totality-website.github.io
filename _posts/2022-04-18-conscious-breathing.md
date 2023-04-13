@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "清醒的呼吸"
+subtitle: "Conscious Breathing"
 categories: [共修]
 image: https://cdn.totality-of-life.com/www/2023_ConsciousBreathing.jpg
-description: "Abiding in the Heart: New World, New Normal, New Beginning"
-toc: true
----
+description: "desctiption只會顯示在這"
 
-#### Conscious Breathing
+---
 
 #### 「清醒的呼吸」全球線上共修
 * 2023.07.01(六)早上開始，楊定一博士親自帶領兩個月的全球共修 [共修時段](https://totality-of-life.com/2022/#session)

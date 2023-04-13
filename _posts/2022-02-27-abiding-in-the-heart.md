@@ -1,18 +1,17 @@
 ---
 layout: post
 title: "定在心：新世界，新的正常，全新的開始"
+subtitle: "Abiding in the Heart: New World, New Normal, New Beginning"
 categories: [共修]
 image: https://cdn.totality-of-life.com/www/transfer/2022_2nd_announce.jpg
-description: "Abiding in the Heart: New World, New Normal, New Beginning"
+description: "desctiption只會顯示在這"
 
 redirect_from:
   - /0427/
   - /2022/
 
-toc: true
----
 
-Abiding in the Heart: New World, New Normal, New Beginning
+---
 
 #### 「定在心：新世界，新的正常，全新的開始」全球線上共修
 

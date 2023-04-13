@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "沒有路的路"
+subtitle: "No Way Back: The Path of No Return"
 categories: [ 共修 ]
 image: https://cdn.totality-of-life.com/www/transfer/9_Banner.jpg
-description: "2021 「沒有路的路 全球靜心」線上共修"
-beforetoc: "No Way Back: The Path of No Return"
-toc: true
+description: "desctiption只會顯示在這"
+
 ---
 
 
