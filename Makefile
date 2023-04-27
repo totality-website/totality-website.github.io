@@ -1,3 +1,11 @@
+css:
+	npx tailwindcss -i styles/styles.css -o static/styles/styles.css
+.PHONY: css
+
 dev:
-	bundle exec jekyll serve --watch --host 0.0.0.0
-.Phony: dev
+	zola serve
+.PHONY: dev
+
+prod:
+	zola build
+.PHONY: 
