@@ -1,6 +1,5 @@
 +++
 title = "全部生命系列"
-template = "page.html"
 +++
 
 書籍．音聲．淨化．生命場共振
