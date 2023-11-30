@@ -2,15 +2,12 @@
 <html lang="{% if lang %}{{ lang }}{% else %}en{% endif %}">
 
 <head>
-  {% set favicon = resize_image(path=config.extra.favicon, format="png", width=32, height=32) %}
-  <link rel="shortcut icon" href="{{ favicon.url }}" type="image/png">
-  <link rel="icon" href="{{ favicon.url }}" type="image/png">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta charset="utf-8">
 
-  <link rel="stylesheet" href="/styles/styles.css" />
+  <link rel="stylesheet" href="/styles/pico.min.css" />
 
   <title>{% if section -%}{{ section.title }} | {% endif %} {% if page -%}{{ page.title }} | {% endif %} {{ config.title }} </title>
 
