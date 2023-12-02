@@ -1,6 +1,8 @@
 +++
 title = "清醒的呼吸"
+description="2023共修"
 template = "page.html"
+aliases = ["2023"]
 +++
 #### Conscious Breathing
 ![banner](https://cdn.totality-of-life.com/S08_2023_Conscious_Breathing/2023_ConsciousBreathing.jpg)

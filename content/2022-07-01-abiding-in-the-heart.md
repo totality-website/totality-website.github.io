@@ -1,18 +1,22 @@
 +++
 title = "定在心：新世界，新的正常，全新的開始"
+description="2022共修"
 template = "page.html"
+aliases = ["2022","0427"]
 +++
 #### Abiding in the Heart: New World, New Normal, New Beginning
-![banner](https://totality-of-life.com/transfer/2022_2nd_announce.jpg)
+![banner](https://cdn.totality-of-life.com/S07_2022_Abiding_in_the_Heart/2022_2nd_announce.jpg)
 
 #### 「定在心：新世界，新的正常，全新的開始」全球線上共修：{#summary}
-* 2022.07.01(五)晚上開始，至少兩個月的全球共修
-* 即日起報名：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / 大陸共修報名→[千聊平台](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)
+* 2022.07.01(五)晚上開始，至少兩個月的全球共修 [共修時段](https://totality-of-life.com/2022/#session)
+* 即日起報名：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / [App購課教學](https://fb.watch/d5S8J7Sbtp/) / 大陸共修報名→[千聊平台](https://m.qlchat.com/page/login?redirect_url=https%3A%2F%2Fm.qlchat.com%2Fwechat%2Fpage%2Fchannel-intro%3FchannelId%3D2000016604931586%26sourceNo%3Dshareapp%26backHome%3DY%26psKey%3D(null)%26channel%3Dios%26from_share%3Dcolumn_details_page%26loginType%3DqrCode)
 * 共修費用：原價台幣4,200元（人民幣960元）<br>
 　　　　　鼓勵第一時間參與優惠價：費用 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
 　　　　　共修可無限回聽，作為一生隨時的淨化，並不斷沉澱加深個人的理解與領悟
 * 經濟有難處需要得到支持的朋友，請簡單說明你的狀況與需要支持的方式，聯繫 [totalitycharity@gmail.com](mailto:totalitycharity@gmail.com?subject=請協助我參與定在心共修，謝謝！&body=請簡單說明個人狀況和所需要的支持方式)
 * 點這裡看更多→[共修前注意事項](https://totality-of-life.com/2022/#attention)、[其他小小叮嚀](https://totality-of-life.com/2022/#reminder)、[運作說明](https://totality-of-life.com/2022/#support)、[我也希望盡一點心力](https://store.totality-of-life.com)
+* 楊定一博士談對這次共修的想法和期待～[影片連結](https://youtu.be/-nFT5ASM2Ag)
+* 配合「定在心」共修的運動和練習～[播放清單](https://youtube.com/playlist?list=PLaXe71NabX8_o_G5cNs-TRM-ynax-FT8Z)
 
 ### 定在心：新世界，新的正常，全新的開始
 
@@ -33,8 +37,28 @@ template = "page.html"
 #### 共修前注意事項：{#attention}
 
 1. 請安裝全部生命 App：蘋果→ [https://reurl.cc/MZennn](https://reurl.cc/MZennn) ｜安卓→ [https://reurl.cc/qmEM90](https://reurl.cc/qmEM90)
-2. 大陸朋友共修平台：下載千聊App，用微信帳號註冊登入，進入微信公眾號「楊定一博士專欄」掃描文章下方二維碼選購課程完成支付即可在千聊App內使用
+2. 大陸朋友共修平台：大陸地區共修平台：下載千聊App，用微信帳號註冊登入，進入微信公眾號「楊定一博士專欄」掃描文章下方風潮千聊平台二維碼進入頻道，選購「定在心」課程完成支付即可在千聊App內使用
 3. 楊定一博士也請我們將最新的提醒，透過這裡和共修的平台分享給大家。請關注[全部生命 facebook](https://www.facebook.com/TheTotalityOfLife)，最新訊息會在那裡發布；大陸朋友請關注微信全部生命群，有熱心朋友會轉達共修和最新訊息。
+
+#### 共修的時段與同步功能說明：{#session}
+
+0701 晚上起，楊定一博士每天會為大家安排早上、中午和晚上的提醒與靜心。
+
+早上和中午大約十分鐘到二三十分鐘，晚上的靜心大約三十分鐘到一小時；週末早午晚之外可能會有補充，請多留給自己一些空檔。
+
+我們所稱的共修，也只是每天早午晚給自己一點空檔做點溫和的拉伸，調整呼吸，打開「全部生命」App，找當天的音檔下載來聽，跟著楊博士的引導，讓自己充分休息、充分放鬆～
+
+早上和中午的時段，每一位朋友自己安排方便的時間進行。晚上的時段，如果你時間配合得來，歡迎在台灣時間晚上8:00一起進行（使用「全部生命」App 2.7 的朋友可以在8:00前下載好音檔按下「循環＋同步」；使用千聊的朋友守住8:00就好）
+
+你不需要正襟危坐，只要把這時段保留給自己，坐著、躺著、走路、做家事都可以進行。哪怕生活瑣碎紛擾，讓我們首先在內心建立一個坦誠面對自己的空間。
+
+我們會固定在前一天的夜裡22:00（台灣時間）釋出隔天早上的共修音檔；早上10:00，釋出當天中午的共修音檔；下午16:00，釋出當天晚上的音檔。參與的朋友可以先下載檔案、並安排時間來進行。
+
+海外朋友請在你的早上進行早上的提醒，你的中午做中午的陪伴，你的晚上做晚上的靜心。最重要的是配合你自己的作息，讓全部生命的觀念點點滴滴落到生活。
+
+**全部生命App 2.7 的同步功能**，晚上的音檔是以台灣時間8:00為同步基準點。你入場時會聽到的情況如下：如果你是8:00前「入場」並按下「循環+同步」，會從音檔的最後幾分鐘開始播，而自動從8:00重新開始；如果在8:00後「入場」並按下同步，會從你入場時間和8:00間的差距開始播。（和到電影院看電影是類似的情況）
+
+所以，如果你希望聽到完整的音檔、而且和更多人同步聽，請在8:00前提早幾分鐘入場並按下「循環+同步」（希望在共修後維持寧靜的朋友，可以在8:00後取消循環、只留同步）；如果你希望聽到完整的音檔，而你因為工作、家事或在不同時區而無法在台灣時間的晚上8:00前後開始，那就請「不要按同步」直接播放要聽的音檔即可。
 
 #### 其他小小叮嚀：{#reminder}
 

@@ -1,5 +1,6 @@
 +++
 title = "沒有路的路"
+description="2021共修"
 template = "page.html"
 +++
 #### No Way Back: The Path of No Return
@@ -99,7 +100,7 @@ D50 早上，我們一起做結構調整。不熟悉結構調整的朋友，可�
 提醒：線上共修在[全部生命App](https://totality-of-life.com/app/)進行，請安裝最新版App。<br>
 
 #### **A.線上報名**{#credit_card}
-線上報名請至[「報名與支持全部生命」網站](https://store.totality-of-life.com/#/login)<br> 
+線上報名請至[「報名與支持全部生命」網站](https://store.totality-of-life.com/#/login)<br>
 [https://store.totality-of-life.com/#/login](https://store.totality-of-life.com/#/login) <br>
 ##### **小小提醒**{#remit}
 報名完成立即自動開通課程，並寄發簡訊通知，回App就可以加入共修<br>
