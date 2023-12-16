@@ -1,6 +1,6 @@
 +++
 title = "沒有路的路"
-description="2021共修"
+description="2021共修，讓這一生時時刻刻反映真心，透過一個個練習沉浸在真實"
 template = "page.html"
 +++
 #### No Way Back: The Path of No Return
