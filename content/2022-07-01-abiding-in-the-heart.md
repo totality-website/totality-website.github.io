@@ -1,6 +1,6 @@
 +++
 title = "定在心：新世界，新的正常，全新的開始"
-description="2022共修"
+description="2022共修，放過個人的不完美，世界的不完美，毫無顧慮投入自己、投入心、投入真實"
 template = "page.html"
 aliases = ["2022","0427"]
 +++
