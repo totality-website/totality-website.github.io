@@ -1,6 +1,6 @@
 +++
 title = "清醒的呼吸"
-description="2023共修"
+description="2023共修，在最親密的一呼一吸，穿越病苦、煩惱與創傷的高牆"
 template = "page.html"
 aliases = ["2023"]
 +++
