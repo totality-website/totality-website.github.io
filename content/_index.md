@@ -51,7 +51,7 @@ sort_by = "date"
 ## 有聲書，隨時可以聽 {#audio_book}
 想運用通勤零碎時間接觸書籍的朋友，楊定一博士請全部生命系列的編者陳夢怡抽空錄製有聲書，已經上架的朗讀有聲書包括[《我是誰》](https://store.totality-of-life.com/#/album/B06_2017_Who_Am_I)[《集體的失憶》](https://store.totality-of-life.com/#/album/B07_2017_Collective_Amnesia)[《落在地球》](https://store.totality-of-life.com/#/album/B08_2017_Earthbound)[《定》](https://store.totality-of-life.com/#/album/B09_2017_Samadhi)，以及楊定一博士主講的[《十字路口》](https://store.totality-of-life.com/#/album/B12_2018_Crossroads)和[《插對頭》](https://store.totality-of-life.com/#/album/B13_2018_Plugged)、[從心開始－再談真原醫](https://store.totality-of-life.com/#/album/L02_Primordia_Medicine_From_Heart)。使用全部生命App的朋友，請到[全部生命購課網站](https://store.totality-of-life.com/#/)購買；大陸地區的朋友可以在[千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)購課使用。
 
-完整書籍作品如下（依出版順序，另有[運動影片輔助說明](https://totality-of-life.com/#exercise)）：
+完整書籍作品如下（依出版順序，另有[運動影片](https://totality-of-life.com/#exercise)）：
 
 1. 真原醫
 2. 靜坐
