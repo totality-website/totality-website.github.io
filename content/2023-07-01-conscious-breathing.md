@@ -10,8 +10,7 @@ aliases = ["2023"]
 #### 「清醒的呼吸」全球線上共修：{#summary}
 * 2023.07.01(六)早上開始，楊定一博士親自帶領兩個月的全球共修
 * 2023.**05.02(二)中午 12:00 開放報名**：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / [App購課教學](https://fb.watch/d5S8J7Sbtp/) / 大陸共修報名→[千聊平台](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000019669409455&ch_r=shareR1&shareKey=5a47df9389a02515abf8dc980368a474free&sourceNo=link&userSourceId=6d23b254ee4c&shareSourceId=55jyl187db87967d)
-* 共修費用：原價台幣4,200元（人民幣960元）<br>
-　　　　　共修可無限回聽，鼓勵及早參與，優惠價格 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
+* 費用：[台幣4,200元](https://store.totality-of-life.com)（[人民幣960元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)）均可無限回聽 <br>
 * 經濟有難處需要得到支持的朋友，請簡單說明你的狀況與需要支持的方式，聯繫 [totalitycharity@gmail.com](mailto:totalitycharity@gmail.com?subject=請協助我參與「清醒的呼吸」共修，謝謝！&body=請簡單說明個人狀況和所需要的支持方式)
 * 點這裡看更多→[共修主旨](https://totality-of-life.com/2023/#main)、[共修如何進行](https://totality-of-life.com/2023/#session)、[共修前注意事項](https://totality-of-life.com/2023/#attention)、[其他小小叮嚀](https://totality-of-life.com/2023/#reminder)、[我也希望盡一點心力](https://totality-of-life.com/2023/#support)
 * 楊定一博士談怎麼準備參與這次共修～[影片：呼吸，為了療癒](https://youtu.be/c6dORjw8IcQ)
