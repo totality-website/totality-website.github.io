@@ -36,7 +36,7 @@ sort_by = "date"
 、
 [海外購物服務](https://www.cgb.com.tw/j2j0n/Product/OverSeaList.do)
 
-**電子書** {#Ebook}
+**電子書** 
 省運費，付款立即有書　[Kobo](https://www.kobo.com/tw/zh/search?query=%E6%A5%8A%E5%AE%9A%E4%B8%80&ac=1&acp=%22%E6%A5%8A%E5%AE%9A%E4%B8%80%22&ac.author=%E6%A5%8A%E5%AE%9A%E4%B8%80&pageNumber=1)
 、
 [Readmoo](https://readmoo.com/search/keyword?q=楊定一&kw=楊定一&pi=0&st=true)
