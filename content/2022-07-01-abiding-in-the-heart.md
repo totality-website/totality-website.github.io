@@ -10,8 +10,7 @@ aliases = ["2022","0427"]
 #### 「定在心：新世界，新的正常，全新的開始」全球線上共修：{#summary}
 * 2022.07.01(五)晚上開始，至少兩個月的全球共修 [共修時段](https://totality-of-life.com/2022/#session)
 * 即日起報名：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / [App購課教學](https://fb.watch/d5S8J7Sbtp/) / 大陸共修報名→[千聊平台](https://m.qlchat.com/page/login?redirect_url=https%3A%2F%2Fm.qlchat.com%2Fwechat%2Fpage%2Fchannel-intro%3FchannelId%3D2000016604931586%26sourceNo%3Dshareapp%26backHome%3DY%26psKey%3D(null)%26channel%3Dios%26from_share%3Dcolumn_details_page%26loginType%3DqrCode)
-* 共修費用：原價台幣4,200元（人民幣960元）<br>
-　　　　　鼓勵第一時間參與優惠價：費用 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
+* 費用：[台幣4,200元](https://store.totality-of-life.com)（[人民幣960元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)）<br>
 　　　　　共修可無限回聽，作為一生隨時的淨化，並不斷沉澱加深個人的理解與領悟
 * 經濟有難處需要得到支持的朋友，請簡單說明你的狀況與需要支持的方式，聯繫 [totalitycharity@gmail.com](mailto:totalitycharity@gmail.com?subject=請協助我參與定在心共修，謝謝！&body=請簡單說明個人狀況和所需要的支持方式)
 * 點這裡看更多→[共修前注意事項](https://totality-of-life.com/2022/#attention)、[其他小小叮嚀](https://totality-of-life.com/2022/#reminder)、[運作說明](https://totality-of-life.com/2022/#support)、[我也希望盡一點心力](https://store.totality-of-life.com)
