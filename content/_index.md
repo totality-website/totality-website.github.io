@@ -17,10 +17,7 @@ sort_by = "date"
 ## 書籍作品，最完整的表達
 楊定一博士從科學和身心平衡出發，循序漸進從「有」到「在」來描述解脫、醒覺與真實，希望了解楊博士的朋友，建議依照出版的順序來讀紙本書籍，或接觸有聲書。
 
-## 有聲書，隨時可以聽 {#audio_book}
-想運用通勤零碎時間接觸書籍的朋友，楊定一博士請全部生命系列的編者陳夢怡抽空錄製有聲書，已經上架的朗讀有聲書包括[《我是誰》](https://store.totality-of-life.com/#/album/B06_2017_Who_Am_I)[《集體的失憶》](https://store.totality-of-life.com/#/album/B07_2017_Collective_Amnesia)[《落在地球》](https://store.totality-of-life.com/#/album/B08_2017_Earthbound)[《定》](https://store.totality-of-life.com/#/album/B09_2017_Samadhi)，以及楊定一博士主講的[《十字路口》](https://store.totality-of-life.com/#/album/B12_2018_Crossroads)和[《插對頭》](https://store.totality-of-life.com/#/album/B13_2018_Plugged)、[從心開始－再談真原醫](https://store.totality-of-life.com/#/album/L02_Primordia_Medicine_From_Heart)。使用全部生命App的朋友，請到[全部生命購課網站](https://store.totality-of-life.com/#/)購買；大陸地區的朋友可以在[千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)購課使用。
-
-## 怎麼購買紙本書籍？ {#shop}
+## 怎麼購買書籍作品？ {#shop}
 
 ### 台灣與海外朋友購書管道{#bookstores}
 
@@ -50,6 +47,9 @@ sort_by = "date"
 ### 大陸地區購書{#China}
 
 目前已有簡體版的作品：真原醫、靜坐、全部的你、神聖的你、不合理的快樂、我是誰、集體的失憶、落在地球、時間的陷阱、短路、好睡、頭腦的東西、無事生非、清醒地睡、豐盛、必要的創傷、轉捩點、療癒的飲食與斷食，其他作品排程中。為方便大陸讀者及早取得所有「全部生命系列」書籍，我們請行旅書店李泰運先生（微信號cba2057）透過合法管道輸入台版書，唯運費及行政審查費用極高，無法比照台灣通路提供優惠，也請見諒。
+
+## 有聲書，隨時可以聽 {#audio_book}
+想運用通勤零碎時間接觸書籍的朋友，楊定一博士請全部生命系列的編者陳夢怡抽空錄製有聲書，已經上架的朗讀有聲書包括[《我是誰》](https://store.totality-of-life.com/#/album/B06_2017_Who_Am_I)[《集體的失憶》](https://store.totality-of-life.com/#/album/B07_2017_Collective_Amnesia)[《落在地球》](https://store.totality-of-life.com/#/album/B08_2017_Earthbound)[《定》](https://store.totality-of-life.com/#/album/B09_2017_Samadhi)，以及楊定一博士主講的[《十字路口》](https://store.totality-of-life.com/#/album/B12_2018_Crossroads)和[《插對頭》](https://store.totality-of-life.com/#/album/B13_2018_Plugged)、[從心開始－再談真原醫](https://store.totality-of-life.com/#/album/L02_Primordia_Medicine_From_Heart)。使用全部生命App的朋友，請到[全部生命購課網站](https://store.totality-of-life.com/#/)購買；大陸地區的朋友可以在[千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)購課使用。
 
 完整書籍作品如下（依出版順序）：
 
