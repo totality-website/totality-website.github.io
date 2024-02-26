@@ -3,6 +3,7 @@ title = "清醒的呼吸"
 description="2023共修，在最親密的一呼一吸，穿越病苦、煩惱與創傷的高牆"
 template = "page.html"
 aliases = ["2023"]
+draft = "true"
 +++
 #### Conscious Breathing
 ![banner](https://cdn.totality-of-life.com/S08_2023_Conscious_Breathing/2023_ConsciousBreathing.jpg)
