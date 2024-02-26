@@ -51,34 +51,37 @@ sort_by = "date"
 ## 有聲書，隨時可以聽 {#audio_book}
 想運用通勤零碎時間接觸書籍的朋友，楊定一博士請全部生命系列的編者陳夢怡抽空錄製有聲書，已經上架的朗讀有聲書包括[《我是誰》](https://store.totality-of-life.com/#/album/B06_2017_Who_Am_I)[《集體的失憶》](https://store.totality-of-life.com/#/album/B07_2017_Collective_Amnesia)[《落在地球》](https://store.totality-of-life.com/#/album/B08_2017_Earthbound)[《定》](https://store.totality-of-life.com/#/album/B09_2017_Samadhi)，以及楊定一博士主講的[《十字路口》](https://store.totality-of-life.com/#/album/B12_2018_Crossroads)和[《插對頭》](https://store.totality-of-life.com/#/album/B13_2018_Plugged)、[從心開始－再談真原醫](https://store.totality-of-life.com/#/album/L02_Primordia_Medicine_From_Heart)。使用全部生命App的朋友，請到[全部生命購課網站](https://store.totality-of-life.com/#/)購買；大陸地區的朋友可以在[千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)購課使用。
 
-完整書籍作品如下（依出版順序）：
+完整書籍作品如下（依出版順序，另有[運動影片輔助說明](https://totality-of-life.com/#exercise)）：
 
 1. 真原醫
 2. 靜坐
 3. 全部的你
-4. 神聖的你
-5. 不合理的快樂
-6. 我是誰
-7. 集體的失憶
-8. 落在地球
-9. 定
-10. 奇蹟
-11. 十字路口
-12. 插對頭
-13. 時間的陷阱
-14. 短路
-15. 好睡
-16. 頭腦的東西
-17. 無事生非
-18. 清醒地睡
-19. 我：弄錯身分的個案
-20. 豐盛
-21. 唯識
-22. 必要的創傷
-23. 轉捩點
-24. 療癒的飲食與斷食
-25. 呼吸，為了療癒
-26. 水仙（預計2024.03.27出版）
+4. 螺旋舞（運動主題）
+5. 神聖的你
+6. 不合理的快樂
+7. 我是誰
+8. 集體的失憶
+9. 落在地球
+10. 定
+11. 奇蹟
+12. 結構調整１（運動主題：全名「透過運動和療效姿勢結構調整」）
+13. 十字路口
+14. 插對頭
+15. 時間的陷阱
+16. 短路
+17. 好睡
+18. 頭腦的東西
+19. 無事生非
+20. 清醒地睡
+21. 我：弄錯身分的個案
+22. 豐盛
+23. 結構調整２（運動主題：全名「最簡單，居家隨時做的結構調整運動」）
+24. 唯識
+25. 必要的創傷
+26. 轉捩點
+27. 療癒的飲食與斷食
+28. 呼吸，為了療癒
+29. 水仙（預計2024.03.27出版）
 
 ## 共修，生命場共振 {#satsang}
 
