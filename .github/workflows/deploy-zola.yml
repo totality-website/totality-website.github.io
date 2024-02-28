@@ -15,5 +15,3 @@ jobs:
           PAGES_BRANCH: gh-pages
           # Or if publishing to the same repo, use the automatic token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Refresh Store introductions cache
-        run: curl https://store.totality-of-life.com/refresh
