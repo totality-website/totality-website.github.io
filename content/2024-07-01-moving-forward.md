@@ -16,7 +16,7 @@ draft=true
 　　　　　可無限回聽，作為一生隨時的淨化，並不斷沉澱加深個人的理解與領悟<br>
 * 經濟有難處需要得到支持的朋友，請簡單說明你的狀況與需要支持的方式，聯繫 [totalitycharity@gmail.com](mailto:totalitycharity@gmail.com?subject=請協助我參與「心，向前行」共修，謝謝！&body=請簡單說明個人狀況和所需要的支持方式)
 * 點這裡看更多→[共修主旨](https://totality-of-life.com/moving-forward/#main)、[如何進行](https://totality-of-life.com/moving-forward/#session)、[注意事項](https://totality-of-life.com/2024/#attention)、[其他叮嚀](https://totality-of-life.com/moving-forward/#reminder)、[我也希望盡一點心力](https://totality-of-life.com/moving-forward/#support)
-* 楊定一博士談這次共修的用意～[影片]()
+* 楊定一博士談這次共修～[影片:療癒的，是你，是我，是每一個人](https://youtu.be/31PvSiJWjNs)
 
 ### 2024全球線上共修「心，向前行」{#main}
 
