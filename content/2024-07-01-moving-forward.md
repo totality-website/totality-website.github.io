@@ -6,7 +6,7 @@ aliases = ["2024"]
 draft=true
 +++
 #### Moving Forward to Self-Heal
-![banner](https://cdn.totality-of-life.com/S08_2023_Conscious_Breathing/2023_ConsciousBreathing.jpg)
+![banner](https://cdn.totality-of-life.com/S09_2024_Moving_Forward/2024_moving_forward.jpg)
 
 #### 「心，向前行」全球線上共修：{#summary}
 * 2024.07.01(一)早上開始，楊定一博士親自帶領兩個月的全球共修
