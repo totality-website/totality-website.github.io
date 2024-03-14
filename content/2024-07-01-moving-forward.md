@@ -10,7 +10,7 @@ draft=true
 
 #### 「心，向前行」全球線上共修：{#summary}
 * [楊定一博士影片：療癒的，是你，是我，是每一個人](https://youtu.be/31PvSiJWjNs)
-* 2024.07.01(一)早上開始，楊博士親自帶領兩個月的全球共修
+* 2024.07.01(一)早上開始，楊博士親自帶領兩個月的全球線上共修
 * 2024.**04.02(三)中午 12:00 開放報名**：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / [App購課教學](https://fb.watch/d5S8J7Sbtp/) / 大陸共修報名→[千聊平台](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000019669409455&ch_r=shareR1&shareKey=5a47df9389a02515abf8dc980368a474free&sourceNo=link&userSourceId=6d23b254ee4c&shareSourceId=55jyl187db87967d)
 * 共修費用：原價台幣4,200元（人民幣960元）<br>
 　　　　　鼓勵及早參與優惠價格 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
@@ -61,10 +61,6 @@ draft=true
 - 長庚生技：[書籍/實體專輯]()、[全部生命App課程](https://store.totality-of-life.com)<br>
 - 康健出版：[天下網路書店]()<br>
 - 風潮音樂：[風潮21天：楊定一專區](https://21days.windmusic.com.tw/index.php)、[大陸千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)<br>
-- 博客來：[博客來網路書店]()
-- 誠品：[誠品網路書店]()
-- 金石堂：[金石堂網路書店]()
-- 電子書：[天下電子書]()、[博客來電子書]()
 
 完整的作品和練習，請看這裡→ [https://totality-of-life.com](https://totality-of-life.com)
 
