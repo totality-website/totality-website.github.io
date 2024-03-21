@@ -9,7 +9,7 @@ draft=true
 ![banner](https://cdn.totality-of-life.com/S09_2024_Moving_Forward/2024_moving_forward.jpg)
 
 #### 「心，向前行」全球線上共修：{#summary}
-* [楊定一博士影片：療癒的，是你，是我，是每一個人](https://youtu.be/31PvSiJWjNs)
+* 共修緣起[｜影片｜楊定一：療癒的，是你，是我，是每一個人](https://youtu.be/31PvSiJWjNs)
 * 2024.07.01(一)早上開始，楊博士親自帶領兩個月的全球線上共修
 * 2024.**04.02(三)中午 12:00 開放報名**：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / 大陸共修報名→[千聊平台](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000019669409455&ch_r=shareR1&shareKey=5a47df9389a02515abf8dc980368a474free&sourceNo=link&userSourceId=6d23b254ee4c&shareSourceId=55jyl187db87967d)
 * 點這裡看→[共修主旨](https://totality-of-life.com/moving-forward/#main)、[如何進行](https://totality-of-life.com/moving-forward/#session)、[注意事項](https://totality-of-life.com/2024/#attention)、[其他叮嚀](https://totality-of-life.com/moving-forward/#reminder)、[我也希望盡一點心力](https://totality-of-life.com/moving-forward/#support)、[App購課教學](https://fb.watch/d5S8J7Sbtp/) 
@@ -58,10 +58,9 @@ draft=true
 
 楊定一博士鼓勵大家透過作品和練習，誠懇而踏實地為自己做準備，用輕鬆而歡喜的心情進入共修～
 
-我們也請以下夥伴單位提供優惠，協助大家在共修開始前多接觸過去的共修、練習和作品：
-- 長庚生技：[書籍/實體專輯]()、[全部生命App課程](https://store.totality-of-life.com)<br>
-- 康健出版：[天下網路書店]()<br>
-- 風潮音樂：[風潮21天：楊定一專區](https://21days.windmusic.com.tw/index.php)、[大陸千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)<br>
+我們也請以下夥伴單位提供優惠，邀請大家在共修開始前多接觸過去的共修、練習和作品：
+- 長庚生技：2024.03.27起網站及門市均有書籍與實體專輯優惠、2024.04.02起「全部生命App課程」全面9折<br>
+- 風潮音樂：2024.04.02起「風潮21天：楊定一專區」及「大陸千聊平台 風潮線上課程」全面9折<br>
 
 完整的作品和練習，請看這裡→ [https://totality-of-life.com](https://totality-of-life.com)
 
