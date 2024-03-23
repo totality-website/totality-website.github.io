@@ -3,7 +3,6 @@ title ="心，向前行"
 description="2024共修，化解人間累積的障礙，克服個人的受傷，重啟人生，再次出發"
 template = "page.html"
 aliases = ["2024"]
-draft=true
 +++
 #### Moving Forward to Self-Heal
 ![banner](https://cdn.totality-of-life.com/S09_2024_Moving_Forward/2024_moving_forward.jpg)
