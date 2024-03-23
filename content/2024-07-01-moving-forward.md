@@ -12,9 +12,9 @@ aliases = ["2024"]
 * 2024.07.01(一)早上開始，楊博士親自帶領兩個月的全球線上共修
 * 2024.**04.02(三)中午 12:00 開放報名**：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / 大陸共修報名→[千聊平台](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000019669409455&ch_r=shareR1&shareKey=5a47df9389a02515abf8dc980368a474free&sourceNo=link&userSourceId=6d23b254ee4c&shareSourceId=55jyl187db87967d)
 * 點這裡看→[共修主旨](https://totality-of-life.com/moving-forward/#main)、[如何進行](https://totality-of-life.com/moving-forward/#session)、[注意事項](https://totality-of-life.com/2024/#attention)、[其他叮嚀](https://totality-of-life.com/moving-forward/#reminder)、[我也希望盡一點心力](https://totality-of-life.com/moving-forward/#support)、[App購課教學](https://fb.watch/d5S8J7Sbtp/) 
-* 共修費用：原價台幣4,200元（人民幣960元）<br>
-　　　　　鼓勵及早參與優惠價格 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
-　　　　　可無限回聽，作為一生隨時的淨化，並不斷沉澱加深個人的理解與領悟<br>
+* 共修費用：鼓勵及早參與優惠價 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
+　　　　　　｜原價台幣4,200元（人民幣960元）｜<br>
+  　　　　可無限回聽，作為一生隨時的淨化，並不斷沉澱加深個人的理解與領悟<br>
 * 經濟有難處需要得到支持的朋友，請簡單說明你的狀況與需要支持的方式，聯繫 [totalitycharity@gmail.com](mailto:totalitycharity@gmail.com?subject=請協助我參與「心，向前行」共修，謝謝！&body=請簡單說明個人狀況和所需要的支持方式)
 
 
