@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="/styles/pico.min.css" />
+
+  <title>全部生命系列 |   全部生命系列 </title>
+
+</head>
+
+<body class="bg-white">
+
+  <!-- <nav class="container">
+  <ul>
+    <li>
+      <a class="contrast" href="https:&#x2F;&#x2F;totality-of-life.com">
+        <strong>全部生命系列</strong>
+      </a>
+    </li>
+  </ul>
+</nav> -->
+
+  
+<main class="container">
+    <h1>全部生命系列</h1>
+    <div>
+        <p>{% block content %}</p>
+<main class="container">
+  <h1>
+    最新消息
+  </h1>
+  {% for page in section.pages -%}
+  <article class="relative group">
+    <div class="
+            absolute
+            -inset-y-2.5 -inset-x-4
+            md:-inset-y-4 md:-inset-x-6
+            sm:rounded-2xl
+            group-hover:bg-slate-50/70
+            dark:group-hover:bg-slate-800/50
+          "></div>
+    <svg viewBox="0 0 9 9" class="
+            hidden
+            absolute
+            right-full
+            mr-6
+            top-2
+            text-slate-200
+            dark:text-slate-600
+            md:mr-12
+            w-[calc(0.5rem+1px)]
+            h-[calc(0.5rem+1px)]
+            overflow-visible
+            sm:block
+          ">
+      <circle cx="4.5" cy="4.5" r="4.5" stroke="currentColor" class="fill-white dark:fill-slate-900" stroke-width="2">
+      </circle>
+    </svg>
+    <div class="relative">
+      <h3 class="
+              text-base
+              font-semibold
+              tracking-tight
+              text-slate-900
+              dark:text-slate-200
+              pt-8
+              lg:pt-0
+            ">
+        {{page.title}}
+      </h3>
+      <div class="
+              mt-2
+              mb-4
+              prose prose-slate
+              prose-a:relative prose-a:z-10
+              dark:prose-dark
+              line-clamp-2
+            ">
+        <p>
+          Today we’re releasing a new version of the
+          <a href="{{page.path}}">Tailwind CSS IntelliSense extension for Visual Studio Code</a>
+          that adds Tailwind-specific linting to both your CSS and your
+          markup.
+        </p>
+      </div>
+      <dl class="
+              absolute
+              left-0
+              top-0
+              lg:left-auto lg:right-full lg:mr-[calc(6.5rem+1px)]
+            ">
+        <dt class="sr-only">Date</dt>
+        <dd class="whitespace-nowrap text-sm leading-6 dark:text-slate-400">
+          <time datetime="2020-06-23T18:52:03Z">June 24, 2020</time>
+        </dd>
+      </dl>
+    </div>
+    <a class="flex items-center text-sm text-sky-500 font-medium" href="{{page.path}}"><span class="
+              absolute
+              -inset-y-2.5 -inset-x-4
+              md:-inset-y-4 md:-inset-x-6
+              sm:rounded-2xl
+            "></span><span class="relative">Read more<span class="sr-only">,
+          <!-- -->Introducing linting for Tailwind CSS IntelliSense</span></span><svg class="
+              relative
+              mt-px
+              overflow-visible
+              ml-2.5
+              text-sky-300
+              dark:text-sky-700
+            " width="3" height="6" viewBox="0 0 3 6" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round">
+        <path d="M0 0L3 3L0 6"></path>
+      </svg></a>
+  </article>
+  {% endfor -%}
+</main>
+{% endblock content %}
+    </div>
+</main>
+<footer class="container">
+  <hr />
+  <div class="grid">
+    <div>
+      <h3>
+        全部生命App
+      </h3>
+      <ul>
+        <li>
+          <a href="https://apps.apple.com/us/app/全部生命/id1562059559">
+            iOS 蘋果安裝
+          </a>
+        </li>
+        <li>
+          <a href="https://play.google.com/store/apps/details?id=app.totality">
+            Android 安卓安裝
+          </a>
+        </li>
+        <li>
+          <a href="https://store.totality-of-life.com">
+            報名課程
+          </a>
+        </li>
+        <li>
+          <a href="https://join.totality-of-life.com">
+            開通序號
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <div>
+      <h3>
+        購買紙本書籍
+      </h3>
+      <ul>
+        <li>
+          <a href="https://search.books.com.tw/search/query/key/楊定一?sloc=reprod_k_1">
+            博客來網路書店
+          </a>
+        </li>
+        <li>
+          <a href="https://shop.cwbook.com.tw/v2/Search?q=楊定一&shopId=40358">
+            天下網路書店
+          </a>
+        </li>
+        <li>
+          <a href="https://www.kingstone.com.tw/search/key/楊定一/adv_au/楊定一">
+            金石堂網路書店
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <div>
+      <h3>
+        電子書平台
+      </h3>
+      <ul>
+        <li>
+          <a href="https://www.kobo.com/tw/zh/search?query=楊定一&ac=1&acp=%22楊定一%22&ac.author=楊定一&pageNumber=1">
+            Kobo
+          </a>
+        </li>
+        <li>
+          <a href="https://readmoo.com/search/keyword?q=楊定一&kw=楊定一&pi=0&st=true">
+            Readmoo
+          </a>
+        </li>
+        <li>
+          <a href="https://search.books.com.tw/search/query/cat/6/qsub/E05/key/楊定一/adv_author/1/sort/1/c/1">
+            博客來
+          </a>
+        </li>
+        <li>
+          <a href="https://www.amazon.com/s?k=楊定一&i=digital-text&dm=true&ref=sr_moz_back">
+            Amazon
+          </a>
+        </li>
+        <li>
+          <a href="https://play.google.com/store/search?q=楊定一&c=books">
+            Google Play 圖書
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div>
+      <h3>社群網站</h3>
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/TheTotalityOfLife">
+            Facebook
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/@totality-of-life">
+            Youtube
+          </a>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</footer>
+
+</body>
+
+</html>
