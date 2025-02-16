@@ -4,7 +4,7 @@ description="2025共修，"
 template = "page.html"
 aliases = ["202507"]
 +++
-#### Moving Forward to Self-Heal
+#### Forever the Middle Way
 ![banner](https://cdn.totality-of-life.com/S10_2025_Forever_the_Middle_Way/2025_Forever_the_Middle_Way.jpg)
 
 #### 「中道，中道到底」全球線上共修：{#summary}
