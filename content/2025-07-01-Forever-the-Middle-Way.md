@@ -2,8 +2,7 @@
 title ="中道，中道到底：未來人類的新正常"
 description="2025共修，"
 template = "page.html"
-aliases = ["202507"]
-aliases = ["2025_Forever_the_Middle_Way"]
+aliases = ["202507","2025_Forever_the_Middle_Way"]
 draft = true
 +++
 #### Forever the Middle Way
