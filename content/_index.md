@@ -49,7 +49,7 @@ sort_by = "date"
 目前已有簡體版的作品：真原醫、靜坐、全部的你、神聖的你、不合理的快樂、我是誰、集體的失憶、落在地球、時間的陷阱、短路、好睡、頭腦的東西、無事生非、清醒地睡、豐盛、唯識、必要的創傷、轉捩點、療癒的飲食與斷食、呼吸為了療癒，其他作品排程中。為方便大陸讀者及早取得所有「全部生命系列」書籍，我們請行旅書店李泰運先生（微信號cba2057）透過合法管道輸入台版書，唯運費及行政審查費用極高，無法比照台灣通路提供優惠，也請見諒。
 
 ## 有聲書，隨時可以聽 {#audio_book}
-想運用通勤零碎時間接觸書籍的朋友，楊定一博士請全部生命系列的編者陳夢怡抽空錄製有聲書，已經上架的朗讀有聲書包括[《我是誰》](https://store.totality-of-life.com/#/album/B06_2017_Who_Am_I)[《集體的失憶》](https://store.totality-of-life.com/#/album/B07_2017_Collective_Amnesia)[《落在地球》](https://store.totality-of-life.com/#/album/B08_2017_Earthbound)[《定》](https://store.totality-of-life.com/#/album/B09_2017_Samadhi)，以及楊定一博士主講的[《十字路口》](https://store.totality-of-life.com/#/album/B12_2018_Crossroads)和[《插對頭》](https://store.totality-of-life.com/#/album/B13_2018_Plugged)、[從心開始－再談真原醫](https://store.totality-of-life.com/#/album/L02_Primordia_Medicine_From_Heart)。使用全部生命App的朋友，請到[全部生命購課網站](https://store.totality-of-life.com/#/)購買；大陸地區的朋友可以在[千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)購課使用。
+想運用通勤零碎時間接觸書籍的朋友，楊定一博士請全部生命系列的編者陳夢怡與自由畫家Mago Lee抽空錄製有聲書，已經上架的朗讀有聲書包括[《我是誰》](https://store.totality-of-life.com/#/album/B06_2017_Who_Am_I)[《集體的失憶》](https://store.totality-of-life.com/#/album/B07_2017_Collective_Amnesia)[《落在地球》](https://store.totality-of-life.com/#/album/B08_2017_Earthbound)[《定》](https://store.totality-of-life.com/#/album/B09_2017_Samadhi)[《奇蹟》](https://store.totality-of-life.com/intro/B10_2018_Miracles)[《必要的創傷》](https://store.totality-of-life.com/intro/B24_2020_Necessary_Trauma)[《水仙》](https://store.totality-of-life.com/intro/B28_2024_Narcissus)，以及楊定一博士主講的[《十字路口》](https://store.totality-of-life.com/#/album/B12_2018_Crossroads)和[《插對頭》](https://store.totality-of-life.com/#/album/B13_2018_Plugged)、[從心開始－再談真原醫](https://store.totality-of-life.com/#/album/L02_Primordia_Medicine_From_Heart)。使用全部生命App的朋友，請到[全部生命購課網站](https://store.totality-of-life.com/#/)購買；大陸地區的朋友可以在[千聊平台 風潮線上課程](https://m.qlchat.com/wechat/page/live/2000001381695860)購課使用。
 
 完整書籍作品如下（依出版順序，另有[運動影片](https://totality-of-life.com/#exercise)）：
 
@@ -81,13 +81,14 @@ sort_by = "date"
 26. 轉捩點
 27. 療癒的飲食與斷食
 28. 呼吸，為了療癒
-29. 水仙（預計2024.03.27出版）
+29. 水仙
+30. 中道（2025.03.12出版）
 
 ## 共修，生命場共振 {#satsang}
 
 楊定一博士選擇透過寫書、親自錄製的影音和音頻來傳遞全部生命的觀念，並未授權任何講師代為解說，也沒有授權任何單位舉辦線下實體課程、共修活動、或實修營。
 
-楊定一博士親自帶領線上共修：2023年全新共修[「清醒的呼吸」](https://totality-of-life.com/2023/)，[2022「定在心：新世界，新的正常，全新的開始」](https://store.totality-of-life.com/#/album/S07_2022_Abiding_in_the_Heart)、[2021「沒有路的路 全球靜心」](https://store.totality-of-life.com/#/album/S06_2021_No_Way_Back)與[2020「唯識的每日靜心」](https://store.totality-of-life.com/#/album/S05_2020_Consciousness_Only)，共修音檔均可無限回聽，報名購課請至→[全部生命購課網站](https://store.totality-of-life.com)
+楊定一博士親自帶領線上共修：[2024「心，向前行」](https://totality-of-life.com/moving-forward/)，[2023「清醒的呼吸」](https://totality-of-life.com/2023/)，[2022「定在心：新世界，新的正常，全新的開始」](https://store.totality-of-life.com/#/album/S07_2022_Abiding_in_the_Heart)、[2021「沒有路的路 全球靜心」](https://store.totality-of-life.com/#/album/S06_2021_No_Way_Back)與[2020「唯識的每日靜心」](https://store.totality-of-life.com/#/album/S05_2020_Consciousness_Only)，共修音檔均可無限回聽，報名購課請至→[全部生命購課網站](https://store.totality-of-life.com)
 
 我們不知道未來有多少機會可以舉辦現場共修，也正因如此，過去舉辦的共修影音記錄相當珍貴。目前有兩次的一日共修現場錄影[蛻變重生 一日共修營實錄](https://store.totality-of-life.com/#/album/S01_2017_Transformation_and_Rebirthing)、[這裡現在 Here And Now 一日共修營實錄](https://store.totality-of-life.com/#/album/S02_2018_Here_and_Now)，建議朋友們可以安排一個完整的週末來「閉關」，跟著錄影一起深入、一同淨化。
 
