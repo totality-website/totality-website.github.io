@@ -12,7 +12,7 @@ draft = true
 #### 「中道，中道到底」全球線上共修：{#summary}
 
 * 共修緣起[｜影片準備中｜](https://youtu.be/31PvSiJWjNs)
-* 2025.07.01(二)早上開始，楊博士親自帶領兩個月的全球線上共修
+* 2025.**07.01(二)**開始，楊定一博士親自帶領兩個月的全球線上共修
 * 2025.**04.28(一)中午 12:00 開放報名**：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / 大陸共修報名→[千聊平台](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000021724882304)
 * 點這裡看→[共修主旨](https://totality-of-life.com/2025_Forever_the_Middle_Way/#main)、[如何進行](https://totality-of-life.com/2025_Forever_the_Middle_Way/#session)、[注意事項](https://totality-of-life.com/2025_Forever_the_Middle_Way/#attention)、[其他叮嚀](https://totality-of-life.com/2025_Forever_the_Middle_Way/#reminder)、[App購課教學](https://fb.watch/d5S8J7Sbtp/)
 * 共修費用：鼓勵及早參與優惠價 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
@@ -63,14 +63,14 @@ draft = true
 
 我們也請以下夥伴單位提供優惠，邀請大家在共修開始前多接觸過去的共修、練習和作品：
 
-* 長庚生技：2025.04.28起網站及門市均有書籍與實體專輯優惠、2025.04.28起「全部生命App課程」全面9折<br>
-* 風潮音樂：2025.04.28起「風潮21天：楊定一專區」及「大陸千聊平台 風潮線上課程」全面9折<br>
+* 長庚生技：2025.03.17起「全部生命App課程」全面9折、2025.04.28起網站及門市均有書籍與實體專輯優惠<br>
+* 風潮音樂：2025.03.17起「風潮21天：楊定一專區」及「大陸千聊平台 風潮線上課程」全面9折<br>
 
 完整的作品和練習，請看這裡→ [https://totality-of-life.com](https://totality-of-life.com)
 
 #### 全部生命運作與支持說明：{#support}
 
-全球受到COVID-19疫情和戰事的衝擊，經濟與社會情勢變動極大。我們很幸運能在線上一同進行共修，非但全球的朋友都可以參與，並在個人生活的點點滴滴中實踐，也讓楊定一博士能跨過空間和距離的限制，陪伴大家一同進入全部生命、活出真實。
+全球受到COVID-19疫情和戰事的衝擊，社會、經濟與地緣政治情勢遭遇極大的動盪。我們很幸運能在線上一同進行共修，非但全球的朋友都可以參與，並在個人生活的點點滴滴中實踐，也讓楊定一博士能跨過空間和距離的限制，陪伴大家一同進入全部生命、活出真實。
 
 楊定一博士推廣全部生命的觀念，二十多年來主要是個人不斷的付出，如果不是靠著長庚生技和熱心朋友的支持，這些服務很難維持下去。有朋友表達過，近年從共修和各種免費影音分享所得到的遠遠更多，他們希望能多付一些，以自己的力量一起讓這件好事永續；也有一些朋友會用自己的助人管道、或透過長庚生技來支持經濟有難處的朋友參與過去的共修活動。
 
