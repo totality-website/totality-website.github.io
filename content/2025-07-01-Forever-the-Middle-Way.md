@@ -3,7 +3,6 @@ title ="中道，中道到底"
 description="2025共修"
 template = "page.html"
 aliases = ["202507","2025_Forever_the_Middle_Way"]
-draft = true
 +++
 #### Forever the Middle Way
 
