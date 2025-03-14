@@ -10,7 +10,7 @@ aliases = ["202507","2025_Forever_the_Middle_Way"]
 
 #### 「中道，中道到底」全球線上共修：{#summary}
 
-* 共修緣起｜影片準備中｜
+* 共修緣起｜[點此看影片](https://www.youtube.com/watch?v=JilE6qhyEoI)｜
 * 2025.**07.01(二)開始**，楊定一博士親自帶領兩個月的全球線上共修
 * 2025.**04.28(一)中午 12:00 開放報名**：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / 大陸共修報名→千聊平台
 * 點這裡看→[共修主旨](https://totality-of-life.com/2025_Forever_the_Middle_Way/#main)、[如何進行](https://totality-of-life.com/2025_Forever_the_Middle_Way/#session)、[注意事項](https://totality-of-life.com/2025_Forever_the_Middle_Way/#attention)、[其他叮嚀](https://totality-of-life.com/2025_Forever_the_Middle_Way/#reminder)、[App購課教學](https://fb.watch/d5S8J7Sbtp/)
