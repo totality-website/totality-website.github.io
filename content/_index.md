@@ -82,13 +82,13 @@ sort_by = "date"
 27. 療癒的飲食與斷食
 28. 呼吸，為了療癒
 29. 水仙
-30. 中道（2025.03.12出版）
+30. 中道
 
 ## 共修，生命場共振 {#satsang}
 
 楊定一博士選擇透過寫書、親自錄製的影音和音頻來傳遞全部生命的觀念，並未授權任何講師代為解說，也沒有授權任何單位舉辦線下實體課程、共修活動、或實修營。
 
-楊定一博士親自帶領線上共修：[2024「心，向前行」](https://totality-of-life.com/moving-forward/)，[2023「清醒的呼吸」](https://totality-of-life.com/2023/)，[2022「定在心：新世界，新的正常，全新的開始」](https://store.totality-of-life.com/#/album/S07_2022_Abiding_in_the_Heart)、[2021「沒有路的路 全球靜心」](https://store.totality-of-life.com/#/album/S06_2021_No_Way_Back)與[2020「唯識的每日靜心」](https://store.totality-of-life.com/#/album/S05_2020_Consciousness_Only)，共修音檔均可無限回聽，報名購課請至→[全部生命購課網站](https://store.totality-of-life.com)
+楊定一博士親自帶領線上共修：[2025「中道，中道到底」](https://totality-of-life.com/forever-the-middle-way/)[2024「心，向前行」](https://totality-of-life.com/moving-forward/)，[2023「清醒的呼吸」](https://totality-of-life.com/2023/)，[2022「定在心：新世界，新的正常，全新的開始」](https://store.totality-of-life.com/#/album/S07_2022_Abiding_in_the_Heart)、[2021「沒有路的路 全球靜心」](https://store.totality-of-life.com/#/album/S06_2021_No_Way_Back)與[2020「唯識的每日靜心」](https://store.totality-of-life.com/#/album/S05_2020_Consciousness_Only)，共修音檔均可無限回聽，報名購課請至→[全部生命購課網站](https://store.totality-of-life.com)
 
 我們不知道未來有多少機會可以舉辦現場共修，也正因如此，過去舉辦的共修影音記錄相當珍貴。目前有兩次的一日共修現場錄影[蛻變重生 一日共修營實錄](https://store.totality-of-life.com/#/album/S01_2017_Transformation_and_Rebirthing)、[這裡現在 Here And Now 一日共修營實錄](https://store.totality-of-life.com/#/album/S02_2018_Here_and_Now)，建議朋友們可以安排一個完整的週末來「閉關」，跟著錄影一起深入、一同淨化。
 
