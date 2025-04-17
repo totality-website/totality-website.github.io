@@ -13,7 +13,7 @@ aliases = ["202507","2025_Forever_the_Middle_Way"]
 * 共修緣起｜[點此看影片](https://www.youtube.com/watch?v=JilE6qhyEoI)｜
 * 2025.**07.01(二)開始**，楊定一博士親自帶領兩個月的全球線上共修
 * 2025.**04.28(一)中午 12:00 開放報名**：全部生命App共修→[App購課網站](https://store.totality-of-life.com) / 大陸共修報名→千聊平台
-* 點這裡看→[共修主旨](https://totality-of-life.com/Forever-the-Middle-Way/#main)、[如何進行](https://totality-of-life.com/Forever-the-Middle-Way/#session)、[注意事項](https://totality-of-life.com/Forever-the-Middle-Way/#attention)、[如何準備](https://totality-of-life.com/Forever-the-Middle-Way/#reminder)、[App購課教學](https://fb.watch/d5S8J7Sbtp/)
+* 點這裡看→[共修主旨](https://totality-of-life.com/forever-the-middle-way/#main)、[如何進行](https://totality-of-life.com/forever-the-middle-way/#session)、[注意事項](https://totality-of-life.com/forever-the-middle-way/#attention)、[如何準備](https://totality-of-life.com/forever-the-middle-way/#reminder)、[App購課教學](https://fb.watch/d5S8J7Sbtp/)
 * 共修費用：鼓勵及早參與優惠價 [台幣 2,000 元](https://store.totality-of-life.com)／[人民幣 460 元](https://m.qlchat.com/wechat/page/channel-intro?channelId=2000014099544174&sourceNo=shareapp)<br>
 　　　　　　｜原價台幣4,200元（人民幣960元）｜<br>
   　　　　可無限回聽，作為一生隨時的淨化，並不斷沉澱加深個人的理解與領悟<br>
