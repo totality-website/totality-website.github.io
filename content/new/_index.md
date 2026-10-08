@@ -1,7 +1,7 @@
 +++
 title = "全部生命系列"
 +++
-{% block content %}
+{% raw %}{% block content %}
 <main class="container">
   <h1>
     最新消息
@@ -92,4 +92,4 @@ title = "全部生命系列"
   </article>
   {% endfor -%}
 </main>
-{% endblock content %}
+{% endblock content %}{% endraw %}

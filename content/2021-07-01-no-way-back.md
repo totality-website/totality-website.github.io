@@ -30,7 +30,7 @@ Om-Aum朗誦時手勢的示意圖，在做Om-Aum朗誦時可以一起做。<br>
 ---
 ### 如何進行問答{#0626QA}
 
-{{ youtube(id="px52hCKUc4Q") }}
+{{ <youtube id="px52hCKUc4Q" /> }}
 
 我們歡迎想提問的朋友自己錄下問題，寄到 thetotalityoflife@gmail.com。信件標題請寫「提問：姓名＋一句話(描述你的問題)」信裡請簡單說明你提問的內容，並記得附上你錄的 mp3 音檔。
 
