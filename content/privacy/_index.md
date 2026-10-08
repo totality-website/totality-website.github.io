@@ -34,7 +34,7 @@ title = "隱私權政策"
 
 ### 刪除帳號
 
-*   在 App 的「設定」頁按「刪除帳號」送出申請。沒有 App 時，寄信到客服信箱 totalityhelp@gmail.com，註明登入用的手機號碼或 Google／Apple 帳號的 email。
+*   在 App 的「設定」頁按「刪除帳號」送出申請。沒有 App 時，寄信到客服信箱 totalityhelp@gmail.com，註明登入用的手機號碼或 Google／Apple 帳號的 email。申請方式另見[刪除帳號](https://totality-of-life.com/account/)。
 *   客服會在 7 天內完成刪除。完成後，App 下次連線時會通知你。
 *   刪除後，你的手機號碼、Google／Apple 登入、email、收藏與課程都會從帳號移除，Apple 登入的授權也會撤銷。
 *   依稅務法規，訂單與發票紀錄會保留，但其中的 email、公司抬頭、統一編號與備註會清除，帳號改以代碼記錄。
