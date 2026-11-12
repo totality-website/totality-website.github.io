@@ -1,6 +1,8 @@
 +++
 title = "全部生命系列"
 sort_by = "date"
+[extra]
+heading = "最新活動"
 +++
 
 書籍．音聲．淨化．生命場共振

@@ -1,7 +1,8 @@
 # On every push to main: build with zola and force-push the output to gh-pages
 # (what shalzz/zola-deploy-action did). The action's v0.23.1 ships zola 0.23.0,
 # which reads the `{#id}` heading anchors in content as Tera comments; 0.23.4+
-# builds them, so the official image is pinned instead.
+# builds them, so the official image is pinned instead; 0.23.6, the theme's
+# min_version (themes/ciderui-zola, a submodule).
 on: push
 name: Build and deploy GH Pages
 permissions:
@@ -13,8 +14,10 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v7
+        with:
+          submodules: true
       - name: build
-        run: docker run --rm -u "$(id -u):$(id -g)" -v "$PWD:/site" -w /site ghcr.io/getzola/zola:v0.23.5 build
+        run: docker run --rm -u "$(id -u):$(id -g)" -v "$PWD:/site" -w /site ghcr.io/getzola/zola:v0.23.6 build
       - name: deploy
         working-directory: public
         env:
