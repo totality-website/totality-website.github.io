@@ -1,3 +1,3 @@
-[submodule "themes/ciderui-zola"]
-	path = themes/ciderui-zola
-	url = https://github.com/at-least/ciderui-zola.git
+[submodule "themes/ciderui"]
+	path = themes/ciderui
+	url = https://github.com/at-least/ciderui

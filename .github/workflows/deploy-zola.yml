@@ -2,7 +2,7 @@
 # (what shalzz/zola-deploy-action did). The action's v0.23.1 ships zola 0.23.0,
 # which reads the `{#id}` heading anchors in content as Tera comments; 0.23.4+
 # builds them, so the official image is pinned instead; 0.23.6, the theme's
-# min_version (themes/ciderui-zola, a submodule).
+# min_version (themes/ciderui/zola, in the ciderui submodule).
 on: push
 name: Build and deploy GH Pages
 permissions:
